@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1400px){
+
+.buger{
+    display: block;
+}
+.navbar{
+    height: 300px;
+}
+.navlist{
+    flex-direction: column;
+
+}
+.navlist ul li {
+    margin: 10px 10px;
+}
+.navhrsp{
+    height: 65px;
+}
+.uvlistrsp{
+    visibility: hidden;
+}
+
+
+}
+
