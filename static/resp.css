@@ -4,6 +4,7 @@
     display: block;
 }
 .navbar{
+    transition: 1s ease-out;
     height: 300px;
 }
 .navlist{
